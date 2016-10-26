@@ -1,1 +1,5 @@
-# RetrofitHttps 基于Retrofit SSL/TLS进行https双向验证Demo
+# RetrofitHttps
+> 使用第三方类库及实现内容
+* Retrofit
+* SSL/TLS
+* https
